@@ -1,5 +1,22 @@
 
-2016-04-06 20:50:11 Miguel Angel Gordián <os.aioria@gmail.com>
+2016-04-07 07:02:38 Miguel Angel Gordián <os.aioria@gmail.com>
+        Summary:
+          Release 0.2.15
+    
+        Revisions:
+    
+
+
+2016-04-07 07:02:38 Miguel Angel Gordián <os.aioria@gmail.com>
+        Summary:
+          release 0.2.14
+    
+        Revisions:
+    
+
+
+
+2016-04-06 20:50:11 Miguel Angel GordiÃ¡n <os.aioria@gmail.com>
         Summary:
           release 0.2.14
     
@@ -10,7 +27,7 @@
 
 
 
-2016-04-06 20:50:12 Miguel Angel Gordián <os.aioria@gmail.com>
+2016-04-06 20:50:12 Miguel Angel GordiÃ¡n <os.aioria@gmail.com>
         Summary:
           VERSION: preparations for 0.2.13
     
@@ -24,7 +41,7 @@
 
 
 
-2016-04-06 20:50:12 Miguel Angel Gordián <os.aioria@gmail.com>
+2016-04-06 20:50:12 Miguel Angel GordiÃ¡n <os.aioria@gmail.com>
         Summary:
           released 0.2.12
     
@@ -40,7 +57,7 @@
 
 
 
-2016-04-06 20:50:12 Miguel Angel Gordián <os.aioria@gmail.com>
+2016-04-06 20:50:12 Miguel Angel GordiÃ¡n <os.aioria@gmail.com>
         Summary:
           released 0.2.11
     
@@ -49,7 +66,7 @@
 
 
 
-2016-04-06 20:50:12 Miguel Angel Gordián <os.aioria@gmail.com>
+2016-04-06 20:50:12 Miguel Angel GordiÃ¡n <os.aioria@gmail.com>
         Summary:
           preparations for 0.2.10 release
     
@@ -62,7 +79,7 @@
 
 
 
-2016-04-06 20:50:12 Miguel Angel Gordián <os.aioria@gmail.com>
+2016-04-06 20:50:12 Miguel Angel GordiÃ¡n <os.aioria@gmail.com>
         Summary:
           preparations for release 0.2.9
     
@@ -74,7 +91,7 @@
 
 
 
-2016-04-06 20:50:12 Miguel Angel Gordián <os.aioria@gmail.com>
+2016-04-06 20:50:12 Miguel Angel GordiÃ¡n <os.aioria@gmail.com>
         Summary:
           preparations for eventlog 0.2.8
     
@@ -87,7 +104,7 @@
 
 
 
-2016-04-06 20:50:12 Miguel Angel Gordián <os.aioria@gmail.com>
+2016-04-06 20:50:12 Miguel Angel GordiÃ¡n <os.aioria@gmail.com>
         Summary:
           preparations for eventlog 0.2.7
     
@@ -100,7 +117,7 @@
 
 
 
-2016-04-06 20:50:12 Miguel Angel Gordián <os.aioria@gmail.com>
+2016-04-06 20:50:12 Miguel Angel GordiÃ¡n <os.aioria@gmail.com>
         Summary:
           preparations for 0.2.6
     
@@ -110,7 +127,7 @@
 
 
 
-2016-04-06 20:50:12 Miguel Angel Gordián <os.aioria@gmail.com>
+2016-04-06 20:50:12 Miguel Angel GordiÃ¡n <os.aioria@gmail.com>
         Summary:
           preparations for eventlog 0.2.5
     
@@ -120,7 +137,7 @@
 
 
 
-2016-04-06 20:50:12 Miguel Angel Gordián <os.aioria@gmail.com>
+2016-04-06 20:50:12 Miguel Angel GordiÃ¡n <os.aioria@gmail.com>
         Summary:
           some more build system specific fixes, eventlog can now be released with ZBS
     
